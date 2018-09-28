@@ -1,3 +1,6 @@
 [submodule "themes/blueidea"]
 	path = themes/blueidea
 	url = git@github.com:yush1ga/pelican-blueidea.git
+[submodule "output"]
+	path = output
+	url = git@github.com:yush1ga/yush1ga.github.io.git

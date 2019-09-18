@@ -1,7 +1,7 @@
 Title: Publications
 Date: 2999-12-31
 
-# Jounarl paper
+# Journal paper
 * **志賀 優毅**, 内海 ゆづ子, 岩村 雅一, Kai Kunze, 黄瀬 浩一, "視線情報と一人称視点画像を用いた文書カテゴリの自動識別", 電子情報通信学会論文誌D, Vol.J99-D, No.9, pp.950-958, Sep. 2016
 
 <p></p>
